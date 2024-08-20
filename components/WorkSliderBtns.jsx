@@ -1,5 +1,7 @@
 "use client";
 
+import 'swiper/css';
+
 import { useSwiper } from "swiper/react";
 import { PiCaretLeftBold, PiCaretRightBold } from "react-icons/pi"
 
