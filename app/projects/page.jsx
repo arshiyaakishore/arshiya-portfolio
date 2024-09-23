@@ -22,7 +22,7 @@ const projects = [
         stack: [
             { name: "NLTK" }, { name: "Streamlit" }, { name: "Panadas" }, { name: "Seaborn" }, { name: "Matplotlib" },
         ],
-        //image: "/assets/work/ekyc.png",
+        image: "/assets/work/whatsapp.jpeg",
         live: "",
         github: "https://github.com/arshiyaakishore/WhatsApp-Chat-Analysis-Project",
     },
