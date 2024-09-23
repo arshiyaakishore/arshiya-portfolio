@@ -34,7 +34,7 @@ const projects = [
         stack: [
             { name: "Tableau" }, { name: "Python" }, { name: "Python" },
         ],
-        //image: "",
+        image: "/assets/work/netflix dashboard.png",
         live: "",
         github: "https://github.com/arshiyaakishore/Netflix-Dashboard-Streaming-Service-Performance",
     },
