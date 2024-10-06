@@ -1,5 +1,6 @@
 
-![image]([https://github.com/user-attachments/assets/d954f464-c2a6-41db-9d4d-227f92ac249f](https://github.com/arshiyaakishore/arshiya-portfolio/blob/main/assets/2.png)
+![image](https://github.com/user-attachments/assets/d954f464-c2a6-41db-9d4d-227f92ac249f)
+
 
 
 
