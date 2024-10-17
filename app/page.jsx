@@ -23,7 +23,12 @@ const Home = () => {
 
             {/* btn and socials */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
-            <a 
+              <Button 
+                variant="outline" 
+                size="lg" 
+                className="uppercase flex items-center gap-2"
+                > 
+                  <a 
                 href="/cv.pdf" 
                 download 
                 className="uppercase flex items-center gap-2 px-4 py-2 border border-gray-300 rounded-lg text-white hover:bg-gray-700 transition-colors"
@@ -31,6 +36,7 @@ const Home = () => {
                 <span> Download CV </span>
                 <FiDownload className="text-xl" />
               </a>
+              </Button>
               <div className="mb-8 xl:mb-0">
                 <Social 
                   containerStyles="flex gap-6" 
