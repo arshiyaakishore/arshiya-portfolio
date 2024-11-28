@@ -44,7 +44,7 @@ const projects = [
         title: "DineMate",
         description: "Developed an AI-driven chatbot system using Python and Dialogflow, designed to automate customer interactions for a virtual eatery catering to over 1,000 patrons monthly. Enhanced operational efficiency through seamless integration, streamlining order placement and query resolution processes.",
         stack: [
-            { name: "Python" }, { name: "FastAPI" }, { name: "MySQL" },
+            { name: "Python" }, { name: "FastAPI" }, { name: "MySQL" },{ name: "DailogFlow" },
         ],
         image: "/assets/work/dinemate.png",
         live: "",
