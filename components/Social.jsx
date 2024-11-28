@@ -6,6 +6,7 @@ const socials = [
     {icon: <FaLinkedin />, path: 'https://www.linkedin.com/in/arshiyakishore/'},
     {icon: <FaCode />, path: 'https://leetcode.com/u/arshiyaakishore/'},
     {icon: <FaLink />, path: 'https://linktr.ee/arshiyak'},
+    
 ]
 
 const Social = ({containerStyles, iconStyles}) => {

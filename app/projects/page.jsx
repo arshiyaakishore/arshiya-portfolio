@@ -18,7 +18,7 @@ const projects = [
         num: "01",
         category: "Machine Learning",
         title: "WhatsApp Chat Analysis",
-        description: " Created a Python-based analysis tool to extract insights from WhatsApp chat data using natural language processing (NLP) and machine learning techniques. Conducted exploratory data analysis (EDA) to visualize chat activity trends, generated word clouds to identify frequently used words, and analyzed emoji usage patterns. Implemented an interactive user interface using Streamlit for data visualization and presentation",
+        description: " Engineered an interactive Streamlit interface to visualize data trends; achieved the ability to analyze chat activity for more than 50 users simultaneously while generating engaging word clouds based on emoji usage.Analyzed emoji usage across 2,000 messages, identifying key emotional responses shaping customer interactions with the brand’s messaging strategy.",
         stack: [
             { name: "NLTK" }, { name: "Streamlit" }, { name: "Panadas" }, { name: "Seaborn" }, { name: "Matplotlib" },
         ],
@@ -38,6 +38,19 @@ const projects = [
         live: "",
         github: "https://github.com/arshiyaakishore/Netflix-Dashboard-Streaming-Service-Performance",
     },
+    {
+        num: "03",
+        category: "AI ChatBot",
+        title: "DineMate",
+        description: "Developed an AI-driven chatbot system using Python and Dialogflow, designed to automate customer interactions for a virtual eatery catering to over 1,000 patrons monthly. Enhanced operational efficiency through seamless integration, streamlining order placement and query resolution processes.",
+        stack: [
+            { name: "Python" }, { name: "FastAPI" }, { name: "MySQL" },
+        ],
+        image: "/assets/work/dinemate.png",
+        live: "",
+        github: "https://github.com/arshiyaakishore/DineMate",
+    },
+    
     
     // {
     //     num: "08",
